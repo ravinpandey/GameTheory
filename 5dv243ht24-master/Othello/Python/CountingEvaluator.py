@@ -1,26 +1,15 @@
+import numpy as np
 from OthelloEvaluator import OthelloEvaluator
-
-"""
-  A simple evaluator that just counts the number of black and white squares 
-  Author: Ola Ringdahl
-"""
 
 class CountingEvaluator(OthelloEvaluator):
     def evaluate(self, othello_position):
-        black_squares = 0
-        white_squares = 0
-        for row in othello_position.board:
-            for item in row:
-                if item == 'W':  # White pieces
-                    white_squares += 1
-                if item == 'B':  # Black pieces
-                    black_squares += 1
+        # Use numpy to count 'B' and 'W' efficiently in the numpy array
+        black_squares = np.count_nonzero(othello_position.board == 'B')
+        white_squares = np.count_nonzero(othello_position.board == 'W')
         return white_squares - black_squares
-    
 
 class AdvancedEvaluator(OthelloEvaluator):
-    # Positional weights based on strategic value of the board positions
-    positional_weights = [
+    positional_weights = np.array([
         [100, -10, 10, 5, 5, 10, -10, 100],
         [-10, -20, -5, -5, -5, -5, -20, -10],
         [10, -5, 5, 0, 0, 5, -5, 10],
@@ -29,51 +18,49 @@ class AdvancedEvaluator(OthelloEvaluator):
         [10, -5, 5, 0, 0, 5, -5, 10],
         [-10, -20, -5, -5, -5, -5, -20, -10],
         [100, -10, 10, 5, 5, 10, -10, 100]
-    ]
+    ])
+
+    corners = [(1, 1), (1, 8), (8, 1), (8, 8)]  # Adjusting for 1-based indexing with padding
 
     def evaluate(self, othello_position):
         black_squares = 0
         white_squares = 0
         black_corners = 0
         white_corners = 0
-        black_mobility = 0
-        white_mobility = 0
         black_positional = 0
         white_positional = 0
 
-        # Define corners (adjusting to the inner 8x8 grid)
-        corners = [(1, 1), (1, 8), (8, 1), (8, 8)]  # Adjusting for 1-based indexing with padding
-
         # Evaluate based on pieces, corners, and positional advantage
         for i in range(1, 9):  # Iterate over the inner 8x8 grid
+            row = othello_position.board[i]  # Fetch row once to avoid repeated indexing
             for j in range(1, 9):
-                item = othello_position.board[i][j]
+                item = row[j]
                 if item == 'W':  # White pieces
                     white_squares += 1
-                    white_positional += self.positional_weights[i - 1][j - 1]  # Adjust for 0-based index in positional_weights
-                    if (i, j) in corners:
+                    white_positional += self.positional_weights[i - 1][j - 1]  # Adjust for 0-based index
+                    if (i, j) in self.corners:
                         white_corners += 1
                 elif item == 'B':  # Black pieces
                     black_squares += 1
-                    black_positional += self.positional_weights[i - 1][j - 1]  # Adjust for 0-based index in positional_weights
-                    if (i, j) in corners:
+                    black_positional += self.positional_weights[i - 1][j - 1]
+                    if (i, j) in self.corners:
                         black_corners += 1
 
-        # Get the moves for both players
-        if othello_position.maxPlayer:  # If it's White's turn
-            white_mobility = len(othello_position.get_moves())  # Get White's legal moves
+        # Get the moves for both players without repeatedly switching turns
+        current_max_player = othello_position.maxPlayer
+        white_mobility, black_mobility = 0, 0
 
-            # Temporarily switch to Black's turn to count Black's moves
-            othello_position.maxPlayer = False
-            black_mobility = len(othello_position.get_moves())  # Get Black's legal moves
-            othello_position.maxPlayer = True  # Switch back to White
-        else:  # If it's Black's turn
-            black_mobility = len(othello_position.get_moves())  # Get Black's legal moves
-
-            # Temporarily switch to White's turn to count White's moves
-            othello_position.maxPlayer = True
-            white_mobility = len(othello_position.get_moves())  # Get White's legal moves
-            othello_position.maxPlayer = False  # Switch back to Black
+        # Cache the move count for white and black based on the current player
+        if current_max_player:
+            white_mobility = len(othello_position.get_moves())  # White's legal moves
+            othello_position.maxPlayer = False  # Temporarily switch to Black
+            black_mobility = len(othello_position.get_moves())
+            othello_position.maxPlayer = True  # Switch back
+        else:
+            black_mobility = len(othello_position.get_moves())  # Black's legal moves
+            othello_position.maxPlayer = True  # Temporarily switch to White
+            white_mobility = len(othello_position.get_moves())
+            othello_position.maxPlayer = False  # Switch back
 
         # Heuristic calculation with weights applied to each factor
         piece_difference = white_squares - black_squares
