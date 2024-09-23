@@ -1,0 +1,1624 @@
+2024-09-22 03:09:24,489 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:24,489 - INFO - Total legal moves: 8
+2024-09-22 03:09:24,489 - INFO - Fetching legal moves for White
+2024-09-22 03:09:24,490 - INFO - Total legal moves: 14
+2024-09-22 03:09:24,704 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:24,705 - INFO - Total legal moves: 8
+2024-09-22 03:09:24,705 - INFO - Fetching legal moves for White
+2024-09-22 03:09:24,705 - INFO - Total legal moves: 14
+2024-09-22 03:09:24,911 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:24,912 - INFO - Total legal moves: 8
+2024-09-22 03:09:24,912 - INFO - Fetching legal moves for White
+2024-09-22 03:09:24,912 - INFO - Total legal moves: 14
+2024-09-22 03:09:25,120 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:25,120 - INFO - Total legal moves: 8
+2024-09-22 03:09:25,120 - INFO - Fetching legal moves for White
+2024-09-22 03:09:25,120 - INFO - Total legal moves: 14
+2024-09-22 03:09:25,333 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:25,333 - INFO - Total legal moves: 8
+2024-09-22 03:09:25,333 - INFO - Fetching legal moves for White
+2024-09-22 03:09:25,333 - INFO - Total legal moves: 14
+2024-09-22 03:09:25,547 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:25,548 - INFO - Total legal moves: 8
+2024-09-22 03:09:25,548 - INFO - Fetching legal moves for White
+2024-09-22 03:09:25,548 - INFO - Total legal moves: 14
+2024-09-22 03:09:25,758 - INFO - Fetching legal moves for Black
+2024-09-22 03:09:25,758 - INFO - Total legal moves: 8
+2024-09-22 03:09:25,758 - INFO - Fetching legal moves for White
+2024-09-22 03:09:25,758 - INFO - Total legal moves: 14
+2024-09-22 03:11:07,553 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:07,553 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:07,554 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:07,554 - INFO - Fetching legal moves for White
+2024-09-22 03:11:07,554 - INFO - Total legal moves: 13
+2024-09-22 03:11:07,554 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:07,554 - INFO - Total legal moves: 12
+2024-09-22 03:11:07,817 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:07,817 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:07,817 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:07,817 - INFO - Fetching legal moves for White
+2024-09-22 03:11:07,817 - INFO - Total legal moves: 13
+2024-09-22 03:11:07,817 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:07,817 - INFO - Total legal moves: 12
+2024-09-22 03:11:08,065 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:08,065 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:08,065 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:08,065 - INFO - Fetching legal moves for White
+2024-09-22 03:11:08,065 - INFO - Total legal moves: 13
+2024-09-22 03:11:08,065 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:08,065 - INFO - Total legal moves: 12
+2024-09-22 03:11:08,312 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:08,312 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:08,312 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:08,312 - INFO - Fetching legal moves for White
+2024-09-22 03:11:08,312 - INFO - Total legal moves: 13
+2024-09-22 03:11:08,312 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:08,313 - INFO - Total legal moves: 12
+2024-09-22 03:11:08,529 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:08,529 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:08,529 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:08,529 - INFO - Fetching legal moves for White
+2024-09-22 03:11:08,529 - INFO - Total legal moves: 13
+2024-09-22 03:11:08,529 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:08,530 - INFO - Total legal moves: 12
+2024-09-22 03:11:08,741 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:08,741 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:08,741 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:08,741 - INFO - Fetching legal moves for White
+2024-09-22 03:11:08,741 - INFO - Total legal moves: 13
+2024-09-22 03:11:08,741 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:08,742 - INFO - Total legal moves: 12
+2024-09-22 03:11:08,965 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:08,965 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:08,965 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:08,965 - INFO - Fetching legal moves for White
+2024-09-22 03:11:08,965 - INFO - Total legal moves: 13
+2024-09-22 03:11:08,965 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:08,966 - INFO - Total legal moves: 12
+2024-09-22 03:11:09,188 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:09,188 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:09,188 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:09,188 - INFO - Fetching legal moves for White
+2024-09-22 03:11:09,188 - INFO - Total legal moves: 13
+2024-09-22 03:11:09,188 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:09,188 - INFO - Total legal moves: 12
+2024-09-22 03:11:09,408 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:09,408 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:09,408 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:09,408 - INFO - Fetching legal moves for White
+2024-09-22 03:11:09,408 - INFO - Total legal moves: 13
+2024-09-22 03:11:09,408 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:09,408 - INFO - Total legal moves: 12
+2024-09-22 03:11:09,628 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:09,628 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:09,628 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:09,628 - INFO - Fetching legal moves for White
+2024-09-22 03:11:09,628 - INFO - Total legal moves: 13
+2024-09-22 03:11:09,628 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:09,628 - INFO - Total legal moves: 12
+2024-09-22 03:11:09,859 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:09,860 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:09,860 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:09,860 - INFO - Fetching legal moves for White
+2024-09-22 03:11:09,860 - INFO - Total legal moves: 13
+2024-09-22 03:11:09,860 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:09,860 - INFO - Total legal moves: 12
+2024-09-22 03:11:10,069 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:10,069 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:10,069 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:10,069 - INFO - Fetching legal moves for White
+2024-09-22 03:11:10,069 - INFO - Total legal moves: 13
+2024-09-22 03:11:10,069 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:10,069 - INFO - Total legal moves: 12
+2024-09-22 03:11:10,278 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:10,278 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:10,278 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:10,278 - INFO - Fetching legal moves for White
+2024-09-22 03:11:10,278 - INFO - Total legal moves: 13
+2024-09-22 03:11:10,278 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:10,278 - INFO - Total legal moves: 12
+2024-09-22 03:11:10,489 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:10,489 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:10,489 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:10,489 - INFO - Fetching legal moves for White
+2024-09-22 03:11:10,490 - INFO - Total legal moves: 13
+2024-09-22 03:11:10,490 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:10,490 - INFO - Total legal moves: 12
+2024-09-22 03:11:10,710 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:10,710 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:10,710 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:10,710 - INFO - Fetching legal moves for White
+2024-09-22 03:11:10,710 - INFO - Total legal moves: 13
+2024-09-22 03:11:10,710 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:10,711 - INFO - Total legal moves: 12
+2024-09-22 03:11:10,928 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:10,928 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:10,928 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:10,928 - INFO - Fetching legal moves for White
+2024-09-22 03:11:10,928 - INFO - Total legal moves: 13
+2024-09-22 03:11:10,928 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:10,929 - INFO - Total legal moves: 12
+2024-09-22 03:11:11,157 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:11,157 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:11,157 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:11,157 - INFO - Fetching legal moves for White
+2024-09-22 03:11:11,157 - INFO - Total legal moves: 13
+2024-09-22 03:11:11,157 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:11,157 - INFO - Total legal moves: 12
+2024-09-22 03:11:11,373 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:11,373 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:11,373 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:11,373 - INFO - Fetching legal moves for White
+2024-09-22 03:11:11,373 - INFO - Total legal moves: 13
+2024-09-22 03:11:11,373 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:11,373 - INFO - Total legal moves: 12
+2024-09-22 03:11:11,585 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:11,585 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:11,585 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:11,585 - INFO - Fetching legal moves for White
+2024-09-22 03:11:11,586 - INFO - Total legal moves: 13
+2024-09-22 03:11:11,586 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:11,586 - INFO - Total legal moves: 12
+2024-09-22 03:11:11,792 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:11,792 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:11,792 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:11,792 - INFO - Fetching legal moves for White
+2024-09-22 03:11:11,792 - INFO - Total legal moves: 13
+2024-09-22 03:11:11,792 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:11,792 - INFO - Total legal moves: 12
+2024-09-22 03:11:12,002 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:12,003 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:12,003 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:12,003 - INFO - Fetching legal moves for White
+2024-09-22 03:11:12,003 - INFO - Total legal moves: 13
+2024-09-22 03:11:12,003 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:12,003 - INFO - Total legal moves: 12
+2024-09-22 03:11:12,214 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:12,214 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:12,214 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:12,214 - INFO - Fetching legal moves for White
+2024-09-22 03:11:12,214 - INFO - Total legal moves: 13
+2024-09-22 03:11:12,214 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:12,214 - INFO - Total legal moves: 12
+2024-09-22 03:11:12,432 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:12,432 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:12,432 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:12,432 - INFO - Fetching legal moves for White
+2024-09-22 03:11:12,432 - INFO - Total legal moves: 13
+2024-09-22 03:11:12,432 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:12,432 - INFO - Total legal moves: 12
+2024-09-22 03:11:12,640 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:12,640 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:12,640 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:12,640 - INFO - Fetching legal moves for White
+2024-09-22 03:11:12,640 - INFO - Total legal moves: 13
+2024-09-22 03:11:12,640 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:12,640 - INFO - Total legal moves: 12
+2024-09-22 03:11:12,850 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:12,851 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:12,851 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:12,851 - INFO - Fetching legal moves for White
+2024-09-22 03:11:12,851 - INFO - Total legal moves: 13
+2024-09-22 03:11:12,851 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:12,851 - INFO - Total legal moves: 12
+2024-09-22 03:11:13,067 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:13,067 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:13,067 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:13,067 - INFO - Fetching legal moves for White
+2024-09-22 03:11:13,068 - INFO - Total legal moves: 13
+2024-09-22 03:11:13,068 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:13,068 - INFO - Total legal moves: 12
+2024-09-22 03:11:13,277 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:13,277 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:13,277 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:13,277 - INFO - Fetching legal moves for White
+2024-09-22 03:11:13,277 - INFO - Total legal moves: 13
+2024-09-22 03:11:13,277 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:13,277 - INFO - Total legal moves: 12
+2024-09-22 03:11:13,512 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:13,512 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:13,512 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:13,512 - INFO - Fetching legal moves for White
+2024-09-22 03:11:13,512 - INFO - Total legal moves: 13
+2024-09-22 03:11:13,512 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:13,513 - INFO - Total legal moves: 12
+2024-09-22 03:11:13,720 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:13,720 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:13,720 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:13,720 - INFO - Fetching legal moves for White
+2024-09-22 03:11:13,721 - INFO - Total legal moves: 13
+2024-09-22 03:11:13,721 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:13,721 - INFO - Total legal moves: 12
+2024-09-22 03:11:13,944 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:13,944 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:13,944 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:13,944 - INFO - Fetching legal moves for White
+2024-09-22 03:11:13,944 - INFO - Total legal moves: 13
+2024-09-22 03:11:13,944 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:13,944 - INFO - Total legal moves: 12
+2024-09-22 03:11:14,156 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:14,156 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:14,156 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:14,156 - INFO - Fetching legal moves for White
+2024-09-22 03:11:14,157 - INFO - Total legal moves: 13
+2024-09-22 03:11:14,157 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:14,157 - INFO - Total legal moves: 12
+2024-09-22 03:11:14,374 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:14,374 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:14,374 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:14,375 - INFO - Fetching legal moves for White
+2024-09-22 03:11:14,375 - INFO - Total legal moves: 13
+2024-09-22 03:11:14,375 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:14,375 - INFO - Total legal moves: 12
+2024-09-22 03:11:14,582 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:14,583 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:14,583 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:14,583 - INFO - Fetching legal moves for White
+2024-09-22 03:11:14,583 - INFO - Total legal moves: 13
+2024-09-22 03:11:14,583 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:14,583 - INFO - Total legal moves: 12
+2024-09-22 03:11:14,794 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:14,794 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:14,794 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:14,794 - INFO - Fetching legal moves for White
+2024-09-22 03:11:14,794 - INFO - Total legal moves: 13
+2024-09-22 03:11:14,794 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:14,794 - INFO - Total legal moves: 12
+2024-09-22 03:11:15,006 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:15,006 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:15,006 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:15,006 - INFO - Fetching legal moves for White
+2024-09-22 03:11:15,007 - INFO - Total legal moves: 13
+2024-09-22 03:11:15,007 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:15,007 - INFO - Total legal moves: 12
+2024-09-22 03:11:15,211 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:15,212 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:15,212 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:15,212 - INFO - Fetching legal moves for White
+2024-09-22 03:11:15,212 - INFO - Total legal moves: 13
+2024-09-22 03:11:15,212 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:15,212 - INFO - Total legal moves: 12
+2024-09-22 03:11:15,427 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:15,427 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:15,427 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:15,427 - INFO - Fetching legal moves for White
+2024-09-22 03:11:15,427 - INFO - Total legal moves: 13
+2024-09-22 03:11:15,428 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:15,428 - INFO - Total legal moves: 12
+2024-09-22 03:11:15,641 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:15,642 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:15,642 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:15,642 - INFO - Fetching legal moves for White
+2024-09-22 03:11:15,642 - INFO - Total legal moves: 13
+2024-09-22 03:11:15,642 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:15,642 - INFO - Total legal moves: 12
+2024-09-22 03:11:15,857 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:15,857 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:15,857 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:15,857 - INFO - Fetching legal moves for White
+2024-09-22 03:11:15,857 - INFO - Total legal moves: 13
+2024-09-22 03:11:15,857 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:15,857 - INFO - Total legal moves: 12
+2024-09-22 03:11:16,071 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:16,071 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:16,071 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:16,072 - INFO - Fetching legal moves for White
+2024-09-22 03:11:16,072 - INFO - Total legal moves: 13
+2024-09-22 03:11:16,072 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:16,072 - INFO - Total legal moves: 12
+2024-09-22 03:11:16,285 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:16,285 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:16,285 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:16,286 - INFO - Fetching legal moves for White
+2024-09-22 03:11:16,286 - INFO - Total legal moves: 13
+2024-09-22 03:11:16,286 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:16,286 - INFO - Total legal moves: 12
+2024-09-22 03:11:16,507 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:16,507 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:16,507 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:16,507 - INFO - Fetching legal moves for White
+2024-09-22 03:11:16,507 - INFO - Total legal moves: 13
+2024-09-22 03:11:16,507 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:16,507 - INFO - Total legal moves: 12
+2024-09-22 03:11:16,713 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:16,713 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:16,713 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:16,713 - INFO - Fetching legal moves for White
+2024-09-22 03:11:16,714 - INFO - Total legal moves: 13
+2024-09-22 03:11:16,714 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:16,714 - INFO - Total legal moves: 12
+2024-09-22 03:11:16,930 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:16,930 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:16,930 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:16,930 - INFO - Fetching legal moves for White
+2024-09-22 03:11:16,930 - INFO - Total legal moves: 13
+2024-09-22 03:11:16,930 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:16,930 - INFO - Total legal moves: 12
+2024-09-22 03:11:17,140 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:17,140 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:17,140 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:17,140 - INFO - Fetching legal moves for White
+2024-09-22 03:11:17,140 - INFO - Total legal moves: 13
+2024-09-22 03:11:17,140 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:17,140 - INFO - Total legal moves: 12
+2024-09-22 03:11:17,360 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:17,360 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:17,360 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:17,360 - INFO - Fetching legal moves for White
+2024-09-22 03:11:17,360 - INFO - Total legal moves: 13
+2024-09-22 03:11:17,360 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:17,360 - INFO - Total legal moves: 12
+2024-09-22 03:11:17,587 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:17,587 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:17,587 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:17,587 - INFO - Fetching legal moves for White
+2024-09-22 03:11:17,587 - INFO - Total legal moves: 13
+2024-09-22 03:11:17,587 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:17,587 - INFO - Total legal moves: 12
+2024-09-22 03:11:17,794 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:17,795 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:17,795 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:17,795 - INFO - Fetching legal moves for White
+2024-09-22 03:11:17,795 - INFO - Total legal moves: 13
+2024-09-22 03:11:17,795 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:17,795 - INFO - Total legal moves: 12
+2024-09-22 03:11:18,010 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:18,010 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:18,010 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:18,010 - INFO - Fetching legal moves for White
+2024-09-22 03:11:18,010 - INFO - Total legal moves: 13
+2024-09-22 03:11:18,010 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:18,010 - INFO - Total legal moves: 12
+2024-09-22 03:11:18,225 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:18,225 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:18,225 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:18,225 - INFO - Fetching legal moves for White
+2024-09-22 03:11:18,225 - INFO - Total legal moves: 13
+2024-09-22 03:11:18,225 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:18,225 - INFO - Total legal moves: 12
+2024-09-22 03:11:18,448 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:18,448 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:18,448 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:18,448 - INFO - Fetching legal moves for White
+2024-09-22 03:11:18,449 - INFO - Total legal moves: 13
+2024-09-22 03:11:18,449 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:18,449 - INFO - Total legal moves: 12
+2024-09-22 03:11:18,660 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:18,660 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:18,660 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:18,660 - INFO - Fetching legal moves for White
+2024-09-22 03:11:18,660 - INFO - Total legal moves: 13
+2024-09-22 03:11:18,660 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:18,660 - INFO - Total legal moves: 12
+2024-09-22 03:11:18,877 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:18,877 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:18,877 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:18,877 - INFO - Fetching legal moves for White
+2024-09-22 03:11:18,877 - INFO - Total legal moves: 13
+2024-09-22 03:11:18,877 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:18,877 - INFO - Total legal moves: 12
+2024-09-22 03:11:19,091 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:19,091 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:19,091 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:19,091 - INFO - Fetching legal moves for White
+2024-09-22 03:11:19,091 - INFO - Total legal moves: 13
+2024-09-22 03:11:19,091 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:19,091 - INFO - Total legal moves: 12
+2024-09-22 03:11:19,303 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:19,303 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:19,303 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:19,303 - INFO - Fetching legal moves for White
+2024-09-22 03:11:19,303 - INFO - Total legal moves: 13
+2024-09-22 03:11:19,303 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:19,303 - INFO - Total legal moves: 12
+2024-09-22 03:11:19,514 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:19,514 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:19,514 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:19,514 - INFO - Fetching legal moves for White
+2024-09-22 03:11:19,514 - INFO - Total legal moves: 13
+2024-09-22 03:11:19,514 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:19,514 - INFO - Total legal moves: 12
+2024-09-22 03:11:19,729 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:19,729 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:19,729 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:19,729 - INFO - Fetching legal moves for White
+2024-09-22 03:11:19,729 - INFO - Total legal moves: 13
+2024-09-22 03:11:19,729 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:19,729 - INFO - Total legal moves: 12
+2024-09-22 03:11:19,947 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:19,947 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:19,947 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:19,948 - INFO - Fetching legal moves for White
+2024-09-22 03:11:19,948 - INFO - Total legal moves: 13
+2024-09-22 03:11:19,948 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:19,948 - INFO - Total legal moves: 12
+2024-09-22 03:11:20,162 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:20,162 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:20,162 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:20,162 - INFO - Fetching legal moves for White
+2024-09-22 03:11:20,162 - INFO - Total legal moves: 13
+2024-09-22 03:11:20,162 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:20,163 - INFO - Total legal moves: 12
+2024-09-22 03:11:20,373 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:20,373 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:20,373 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:20,373 - INFO - Fetching legal moves for White
+2024-09-22 03:11:20,374 - INFO - Total legal moves: 13
+2024-09-22 03:11:20,374 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:20,374 - INFO - Total legal moves: 12
+2024-09-22 03:11:20,580 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:20,580 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:20,581 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:20,581 - INFO - Fetching legal moves for White
+2024-09-22 03:11:20,581 - INFO - Total legal moves: 13
+2024-09-22 03:11:20,581 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:20,581 - INFO - Total legal moves: 12
+2024-09-22 03:11:20,790 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:20,790 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:20,790 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:20,790 - INFO - Fetching legal moves for White
+2024-09-22 03:11:20,790 - INFO - Total legal moves: 13
+2024-09-22 03:11:20,790 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:20,791 - INFO - Total legal moves: 12
+2024-09-22 03:11:21,012 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:21,012 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:21,012 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:21,012 - INFO - Fetching legal moves for White
+2024-09-22 03:11:21,013 - INFO - Total legal moves: 13
+2024-09-22 03:11:21,013 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:21,013 - INFO - Total legal moves: 12
+2024-09-22 03:11:21,221 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:21,221 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:21,221 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:21,221 - INFO - Fetching legal moves for White
+2024-09-22 03:11:21,221 - INFO - Total legal moves: 13
+2024-09-22 03:11:21,221 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:21,221 - INFO - Total legal moves: 12
+2024-09-22 03:11:21,434 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:21,434 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:21,434 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:21,434 - INFO - Fetching legal moves for White
+2024-09-22 03:11:21,435 - INFO - Total legal moves: 13
+2024-09-22 03:11:21,435 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:21,435 - INFO - Total legal moves: 12
+2024-09-22 03:11:21,654 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:21,654 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:21,655 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:21,655 - INFO - Fetching legal moves for White
+2024-09-22 03:11:21,655 - INFO - Total legal moves: 13
+2024-09-22 03:11:21,655 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:21,655 - INFO - Total legal moves: 12
+2024-09-22 03:11:21,862 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:21,862 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:21,862 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:21,862 - INFO - Fetching legal moves for White
+2024-09-22 03:11:21,862 - INFO - Total legal moves: 13
+2024-09-22 03:11:21,863 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:21,863 - INFO - Total legal moves: 12
+2024-09-22 03:11:22,078 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:22,079 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:22,079 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:22,079 - INFO - Fetching legal moves for White
+2024-09-22 03:11:22,079 - INFO - Total legal moves: 13
+2024-09-22 03:11:22,079 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:22,079 - INFO - Total legal moves: 12
+2024-09-22 03:11:22,285 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:22,285 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:22,285 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:22,285 - INFO - Fetching legal moves for White
+2024-09-22 03:11:22,285 - INFO - Total legal moves: 13
+2024-09-22 03:11:22,285 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:22,285 - INFO - Total legal moves: 12
+2024-09-22 03:11:22,499 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:22,499 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:22,499 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:22,499 - INFO - Fetching legal moves for White
+2024-09-22 03:11:22,499 - INFO - Total legal moves: 13
+2024-09-22 03:11:22,499 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:22,499 - INFO - Total legal moves: 12
+2024-09-22 03:11:22,716 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:22,716 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:22,716 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:22,716 - INFO - Fetching legal moves for White
+2024-09-22 03:11:22,716 - INFO - Total legal moves: 13
+2024-09-22 03:11:22,716 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:22,716 - INFO - Total legal moves: 12
+2024-09-22 03:11:22,931 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:22,931 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:22,931 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:22,931 - INFO - Fetching legal moves for White
+2024-09-22 03:11:22,931 - INFO - Total legal moves: 13
+2024-09-22 03:11:22,931 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:22,931 - INFO - Total legal moves: 12
+2024-09-22 03:11:23,140 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:23,140 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:23,140 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:23,140 - INFO - Fetching legal moves for White
+2024-09-22 03:11:23,140 - INFO - Total legal moves: 13
+2024-09-22 03:11:23,141 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:23,141 - INFO - Total legal moves: 12
+2024-09-22 03:11:23,357 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:23,357 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:23,357 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:23,357 - INFO - Fetching legal moves for White
+2024-09-22 03:11:23,357 - INFO - Total legal moves: 13
+2024-09-22 03:11:23,357 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:23,358 - INFO - Total legal moves: 12
+2024-09-22 03:11:23,571 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:23,572 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:23,572 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:23,572 - INFO - Fetching legal moves for White
+2024-09-22 03:11:23,572 - INFO - Total legal moves: 13
+2024-09-22 03:11:23,572 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:23,572 - INFO - Total legal moves: 12
+2024-09-22 03:11:23,780 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:23,780 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:23,780 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:23,780 - INFO - Fetching legal moves for White
+2024-09-22 03:11:23,781 - INFO - Total legal moves: 13
+2024-09-22 03:11:23,781 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:23,781 - INFO - Total legal moves: 12
+2024-09-22 03:11:23,991 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:23,991 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:23,991 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:23,991 - INFO - Fetching legal moves for White
+2024-09-22 03:11:23,991 - INFO - Total legal moves: 13
+2024-09-22 03:11:23,991 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:23,991 - INFO - Total legal moves: 12
+2024-09-22 03:11:24,210 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:24,210 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:24,210 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:24,210 - INFO - Fetching legal moves for White
+2024-09-22 03:11:24,210 - INFO - Total legal moves: 13
+2024-09-22 03:11:24,210 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:24,210 - INFO - Total legal moves: 12
+2024-09-22 03:11:24,426 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:24,426 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:24,426 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:24,426 - INFO - Fetching legal moves for White
+2024-09-22 03:11:24,426 - INFO - Total legal moves: 13
+2024-09-22 03:11:24,426 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:24,426 - INFO - Total legal moves: 12
+2024-09-22 03:11:24,636 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:24,637 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:24,637 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:24,637 - INFO - Fetching legal moves for White
+2024-09-22 03:11:24,637 - INFO - Total legal moves: 13
+2024-09-22 03:11:24,637 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:24,637 - INFO - Total legal moves: 12
+2024-09-22 03:11:24,848 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:24,848 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:24,848 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:24,848 - INFO - Fetching legal moves for White
+2024-09-22 03:11:24,848 - INFO - Total legal moves: 13
+2024-09-22 03:11:24,848 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:24,848 - INFO - Total legal moves: 12
+2024-09-22 03:11:25,058 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:25,058 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:25,058 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:25,058 - INFO - Fetching legal moves for White
+2024-09-22 03:11:25,058 - INFO - Total legal moves: 13
+2024-09-22 03:11:25,058 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:25,058 - INFO - Total legal moves: 12
+2024-09-22 03:11:25,270 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:25,270 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:25,270 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:25,270 - INFO - Fetching legal moves for White
+2024-09-22 03:11:25,270 - INFO - Total legal moves: 13
+2024-09-22 03:11:25,270 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:25,270 - INFO - Total legal moves: 12
+2024-09-22 03:11:25,488 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:25,488 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:25,488 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:25,488 - INFO - Fetching legal moves for White
+2024-09-22 03:11:25,488 - INFO - Total legal moves: 13
+2024-09-22 03:11:25,488 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:25,488 - INFO - Total legal moves: 12
+2024-09-22 03:11:25,701 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:25,701 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:25,701 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:25,701 - INFO - Fetching legal moves for White
+2024-09-22 03:11:25,701 - INFO - Total legal moves: 13
+2024-09-22 03:11:25,701 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:25,701 - INFO - Total legal moves: 12
+2024-09-22 03:11:25,915 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:25,915 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:25,915 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:25,915 - INFO - Fetching legal moves for White
+2024-09-22 03:11:25,915 - INFO - Total legal moves: 13
+2024-09-22 03:11:25,915 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:25,915 - INFO - Total legal moves: 12
+2024-09-22 03:11:26,143 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:26,143 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:26,143 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:26,143 - INFO - Fetching legal moves for White
+2024-09-22 03:11:26,143 - INFO - Total legal moves: 13
+2024-09-22 03:11:26,143 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:26,144 - INFO - Total legal moves: 12
+2024-09-22 03:11:26,354 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:26,354 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:26,354 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:26,354 - INFO - Fetching legal moves for White
+2024-09-22 03:11:26,354 - INFO - Total legal moves: 13
+2024-09-22 03:11:26,354 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:26,354 - INFO - Total legal moves: 12
+2024-09-22 03:11:26,564 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:26,564 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:26,564 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:26,564 - INFO - Fetching legal moves for White
+2024-09-22 03:11:26,564 - INFO - Total legal moves: 13
+2024-09-22 03:11:26,564 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:26,564 - INFO - Total legal moves: 12
+2024-09-22 03:11:26,776 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:26,776 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:26,776 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:26,776 - INFO - Fetching legal moves for White
+2024-09-22 03:11:26,776 - INFO - Total legal moves: 13
+2024-09-22 03:11:26,776 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:26,777 - INFO - Total legal moves: 12
+2024-09-22 03:11:26,993 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:26,993 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:26,993 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:26,993 - INFO - Fetching legal moves for White
+2024-09-22 03:11:26,993 - INFO - Total legal moves: 13
+2024-09-22 03:11:26,994 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:26,994 - INFO - Total legal moves: 12
+2024-09-22 03:11:27,212 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:27,212 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:27,212 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:27,212 - INFO - Fetching legal moves for White
+2024-09-22 03:11:27,212 - INFO - Total legal moves: 13
+2024-09-22 03:11:27,212 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:27,212 - INFO - Total legal moves: 12
+2024-09-22 03:11:27,422 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:27,422 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:27,422 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:27,422 - INFO - Fetching legal moves for White
+2024-09-22 03:11:27,422 - INFO - Total legal moves: 13
+2024-09-22 03:11:27,422 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:27,422 - INFO - Total legal moves: 12
+2024-09-22 03:11:27,634 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:27,635 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:27,635 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:27,635 - INFO - Fetching legal moves for White
+2024-09-22 03:11:27,635 - INFO - Total legal moves: 13
+2024-09-22 03:11:27,635 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:27,635 - INFO - Total legal moves: 12
+2024-09-22 03:11:27,841 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:27,841 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:27,841 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:27,841 - INFO - Fetching legal moves for White
+2024-09-22 03:11:27,841 - INFO - Total legal moves: 13
+2024-09-22 03:11:27,841 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:27,841 - INFO - Total legal moves: 12
+2024-09-22 03:11:28,053 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:28,054 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:28,054 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:28,054 - INFO - Fetching legal moves for White
+2024-09-22 03:11:28,054 - INFO - Total legal moves: 13
+2024-09-22 03:11:28,054 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:28,054 - INFO - Total legal moves: 12
+2024-09-22 03:11:28,270 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:28,270 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:28,270 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:28,270 - INFO - Fetching legal moves for White
+2024-09-22 03:11:28,270 - INFO - Total legal moves: 13
+2024-09-22 03:11:28,270 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:28,270 - INFO - Total legal moves: 12
+2024-09-22 03:11:28,486 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:28,486 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:28,486 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:28,486 - INFO - Fetching legal moves for White
+2024-09-22 03:11:28,486 - INFO - Total legal moves: 13
+2024-09-22 03:11:28,486 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:28,487 - INFO - Total legal moves: 12
+2024-09-22 03:11:28,696 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:28,696 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:28,696 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:28,696 - INFO - Fetching legal moves for White
+2024-09-22 03:11:28,696 - INFO - Total legal moves: 13
+2024-09-22 03:11:28,696 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:28,696 - INFO - Total legal moves: 12
+2024-09-22 03:11:28,907 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:28,907 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:28,907 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:28,907 - INFO - Fetching legal moves for White
+2024-09-22 03:11:28,907 - INFO - Total legal moves: 13
+2024-09-22 03:11:28,907 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:28,907 - INFO - Total legal moves: 12
+2024-09-22 03:11:29,119 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:29,119 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:29,119 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:29,119 - INFO - Fetching legal moves for White
+2024-09-22 03:11:29,119 - INFO - Total legal moves: 13
+2024-09-22 03:11:29,119 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:29,120 - INFO - Total legal moves: 12
+2024-09-22 03:11:29,329 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:29,329 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:29,329 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:29,329 - INFO - Fetching legal moves for White
+2024-09-22 03:11:29,329 - INFO - Total legal moves: 13
+2024-09-22 03:11:29,329 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:29,330 - INFO - Total legal moves: 12
+2024-09-22 03:11:29,596 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:29,596 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:29,596 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:29,596 - INFO - Fetching legal moves for White
+2024-09-22 03:11:29,596 - INFO - Total legal moves: 13
+2024-09-22 03:11:29,596 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:29,596 - INFO - Total legal moves: 12
+2024-09-22 03:11:29,820 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:29,820 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:29,820 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:29,820 - INFO - Fetching legal moves for White
+2024-09-22 03:11:29,820 - INFO - Total legal moves: 13
+2024-09-22 03:11:29,820 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:29,821 - INFO - Total legal moves: 12
+2024-09-22 03:11:30,045 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:30,045 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:30,046 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:30,046 - INFO - Fetching legal moves for White
+2024-09-22 03:11:30,046 - INFO - Total legal moves: 13
+2024-09-22 03:11:30,046 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:30,046 - INFO - Total legal moves: 12
+2024-09-22 03:11:30,258 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:30,259 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:30,259 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:30,259 - INFO - Fetching legal moves for White
+2024-09-22 03:11:30,259 - INFO - Total legal moves: 13
+2024-09-22 03:11:30,259 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:30,259 - INFO - Total legal moves: 12
+2024-09-22 03:11:30,466 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:30,466 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:30,466 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:30,466 - INFO - Fetching legal moves for White
+2024-09-22 03:11:30,467 - INFO - Total legal moves: 13
+2024-09-22 03:11:30,467 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:30,467 - INFO - Total legal moves: 12
+2024-09-22 03:11:30,678 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:30,678 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:30,678 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:30,678 - INFO - Fetching legal moves for White
+2024-09-22 03:11:30,678 - INFO - Total legal moves: 13
+2024-09-22 03:11:30,678 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:30,678 - INFO - Total legal moves: 12
+2024-09-22 03:11:30,898 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:30,898 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:30,898 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:30,898 - INFO - Fetching legal moves for White
+2024-09-22 03:11:30,898 - INFO - Total legal moves: 13
+2024-09-22 03:11:30,898 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:30,898 - INFO - Total legal moves: 12
+2024-09-22 03:11:31,112 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:31,112 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:31,112 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:31,112 - INFO - Fetching legal moves for White
+2024-09-22 03:11:31,112 - INFO - Total legal moves: 13
+2024-09-22 03:11:31,112 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:31,113 - INFO - Total legal moves: 12
+2024-09-22 03:11:31,328 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:31,328 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:31,328 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:31,328 - INFO - Fetching legal moves for White
+2024-09-22 03:11:31,328 - INFO - Total legal moves: 13
+2024-09-22 03:11:31,328 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:31,329 - INFO - Total legal moves: 12
+2024-09-22 03:11:31,534 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:31,534 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:31,534 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:31,534 - INFO - Fetching legal moves for White
+2024-09-22 03:11:31,534 - INFO - Total legal moves: 13
+2024-09-22 03:11:31,534 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:31,534 - INFO - Total legal moves: 12
+2024-09-22 03:11:31,747 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:31,747 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:31,747 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:31,747 - INFO - Fetching legal moves for White
+2024-09-22 03:11:31,747 - INFO - Total legal moves: 13
+2024-09-22 03:11:31,747 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:31,747 - INFO - Total legal moves: 12
+2024-09-22 03:11:31,995 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:31,995 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:31,995 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:31,995 - INFO - Fetching legal moves for White
+2024-09-22 03:11:31,995 - INFO - Total legal moves: 13
+2024-09-22 03:11:31,995 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:31,995 - INFO - Total legal moves: 12
+2024-09-22 03:11:32,205 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:32,205 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:32,205 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:32,205 - INFO - Fetching legal moves for White
+2024-09-22 03:11:32,205 - INFO - Total legal moves: 13
+2024-09-22 03:11:32,205 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:32,205 - INFO - Total legal moves: 12
+2024-09-22 03:11:32,419 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:32,419 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:32,419 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:32,420 - INFO - Fetching legal moves for White
+2024-09-22 03:11:32,420 - INFO - Total legal moves: 13
+2024-09-22 03:11:32,420 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:32,420 - INFO - Total legal moves: 12
+2024-09-22 03:11:32,631 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:32,631 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:32,631 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:32,631 - INFO - Fetching legal moves for White
+2024-09-22 03:11:32,631 - INFO - Total legal moves: 13
+2024-09-22 03:11:32,631 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:32,631 - INFO - Total legal moves: 12
+2024-09-22 03:11:32,843 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:32,844 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:32,844 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:32,844 - INFO - Fetching legal moves for White
+2024-09-22 03:11:32,844 - INFO - Total legal moves: 13
+2024-09-22 03:11:32,844 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:32,844 - INFO - Total legal moves: 12
+2024-09-22 03:11:33,060 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:33,060 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:33,060 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:33,060 - INFO - Fetching legal moves for White
+2024-09-22 03:11:33,060 - INFO - Total legal moves: 13
+2024-09-22 03:11:33,060 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:33,060 - INFO - Total legal moves: 12
+2024-09-22 03:11:33,268 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:33,268 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:33,268 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:33,268 - INFO - Fetching legal moves for White
+2024-09-22 03:11:33,268 - INFO - Total legal moves: 13
+2024-09-22 03:11:33,268 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:33,268 - INFO - Total legal moves: 12
+2024-09-22 03:11:33,480 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:33,481 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:33,481 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:33,481 - INFO - Fetching legal moves for White
+2024-09-22 03:11:33,481 - INFO - Total legal moves: 13
+2024-09-22 03:11:33,481 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:33,481 - INFO - Total legal moves: 12
+2024-09-22 03:11:33,687 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:33,687 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:33,687 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:33,687 - INFO - Fetching legal moves for White
+2024-09-22 03:11:33,687 - INFO - Total legal moves: 13
+2024-09-22 03:11:33,687 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:33,687 - INFO - Total legal moves: 12
+2024-09-22 03:11:33,901 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:33,902 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:33,902 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:33,902 - INFO - Fetching legal moves for White
+2024-09-22 03:11:33,902 - INFO - Total legal moves: 13
+2024-09-22 03:11:33,902 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:33,902 - INFO - Total legal moves: 12
+2024-09-22 03:11:34,107 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:34,107 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:34,107 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:34,107 - INFO - Fetching legal moves for White
+2024-09-22 03:11:34,108 - INFO - Total legal moves: 13
+2024-09-22 03:11:34,108 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:34,108 - INFO - Total legal moves: 12
+2024-09-22 03:11:34,320 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:34,321 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:34,321 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:34,321 - INFO - Fetching legal moves for White
+2024-09-22 03:11:34,321 - INFO - Total legal moves: 13
+2024-09-22 03:11:34,321 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:34,321 - INFO - Total legal moves: 12
+2024-09-22 03:11:34,532 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:11:34,532 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:11:34,533 - INFO - Move applied, now it's White's turn
+2024-09-22 03:11:34,533 - INFO - Fetching legal moves for White
+2024-09-22 03:11:34,533 - INFO - Total legal moves: 13
+2024-09-22 03:11:34,533 - INFO - Fetching legal moves for Black
+2024-09-22 03:11:34,533 - INFO - Total legal moves: 12
+2024-09-22 03:12:07,496 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:07,496 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:07,496 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:07,496 - INFO - Fetching legal moves for White
+2024-09-22 03:12:07,496 - INFO - Total legal moves: 13
+2024-09-22 03:12:07,496 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:07,496 - INFO - Total legal moves: 12
+2024-09-22 03:12:07,754 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:07,754 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:07,754 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:07,754 - INFO - Fetching legal moves for White
+2024-09-22 03:12:07,754 - INFO - Total legal moves: 13
+2024-09-22 03:12:07,755 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:07,755 - INFO - Total legal moves: 12
+2024-09-22 03:12:08,012 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:08,012 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:08,012 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:08,012 - INFO - Fetching legal moves for White
+2024-09-22 03:12:08,013 - INFO - Total legal moves: 13
+2024-09-22 03:12:08,013 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:08,013 - INFO - Total legal moves: 12
+2024-09-22 03:12:08,259 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:08,259 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:08,259 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:08,259 - INFO - Fetching legal moves for White
+2024-09-22 03:12:08,259 - INFO - Total legal moves: 13
+2024-09-22 03:12:08,259 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:08,260 - INFO - Total legal moves: 12
+2024-09-22 03:12:08,468 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:08,468 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:08,468 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:08,468 - INFO - Fetching legal moves for White
+2024-09-22 03:12:08,468 - INFO - Total legal moves: 13
+2024-09-22 03:12:08,468 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:08,468 - INFO - Total legal moves: 12
+2024-09-22 03:12:08,677 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:08,677 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:08,677 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:08,677 - INFO - Fetching legal moves for White
+2024-09-22 03:12:08,677 - INFO - Total legal moves: 13
+2024-09-22 03:12:08,677 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:08,677 - INFO - Total legal moves: 12
+2024-09-22 03:12:08,888 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:08,889 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:08,889 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:08,889 - INFO - Fetching legal moves for White
+2024-09-22 03:12:08,889 - INFO - Total legal moves: 13
+2024-09-22 03:12:08,889 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:08,889 - INFO - Total legal moves: 12
+2024-09-22 03:12:09,101 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:09,101 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:09,101 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:09,101 - INFO - Fetching legal moves for White
+2024-09-22 03:12:09,101 - INFO - Total legal moves: 13
+2024-09-22 03:12:09,101 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:09,102 - INFO - Total legal moves: 12
+2024-09-22 03:12:09,326 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:09,326 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:09,326 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:09,327 - INFO - Fetching legal moves for White
+2024-09-22 03:12:09,327 - INFO - Total legal moves: 13
+2024-09-22 03:12:09,327 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:09,327 - INFO - Total legal moves: 12
+2024-09-22 03:12:09,538 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:09,538 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:09,538 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:09,538 - INFO - Fetching legal moves for White
+2024-09-22 03:12:09,538 - INFO - Total legal moves: 13
+2024-09-22 03:12:09,538 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:09,538 - INFO - Total legal moves: 12
+2024-09-22 03:12:09,753 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:09,753 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:09,753 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:09,753 - INFO - Fetching legal moves for White
+2024-09-22 03:12:09,753 - INFO - Total legal moves: 13
+2024-09-22 03:12:09,753 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:09,753 - INFO - Total legal moves: 12
+2024-09-22 03:12:09,961 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:09,961 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:09,961 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:09,961 - INFO - Fetching legal moves for White
+2024-09-22 03:12:09,961 - INFO - Total legal moves: 13
+2024-09-22 03:12:09,961 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:09,961 - INFO - Total legal moves: 12
+2024-09-22 03:12:10,171 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:10,172 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:10,172 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:10,172 - INFO - Fetching legal moves for White
+2024-09-22 03:12:10,172 - INFO - Total legal moves: 13
+2024-09-22 03:12:10,172 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:10,172 - INFO - Total legal moves: 12
+2024-09-22 03:12:10,381 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:10,381 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:10,381 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:10,381 - INFO - Fetching legal moves for White
+2024-09-22 03:12:10,381 - INFO - Total legal moves: 13
+2024-09-22 03:12:10,381 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:10,382 - INFO - Total legal moves: 12
+2024-09-22 03:12:10,589 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:10,589 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:10,589 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:10,589 - INFO - Fetching legal moves for White
+2024-09-22 03:12:10,590 - INFO - Total legal moves: 13
+2024-09-22 03:12:10,590 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:10,590 - INFO - Total legal moves: 12
+2024-09-22 03:12:10,814 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:10,814 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:10,814 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:10,814 - INFO - Fetching legal moves for White
+2024-09-22 03:12:10,815 - INFO - Total legal moves: 13
+2024-09-22 03:12:10,815 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:10,815 - INFO - Total legal moves: 12
+2024-09-22 03:12:11,028 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:11,028 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:11,028 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:11,028 - INFO - Fetching legal moves for White
+2024-09-22 03:12:11,028 - INFO - Total legal moves: 13
+2024-09-22 03:12:11,028 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:11,028 - INFO - Total legal moves: 12
+2024-09-22 03:12:11,237 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:11,237 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:11,237 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:11,237 - INFO - Fetching legal moves for White
+2024-09-22 03:12:11,238 - INFO - Total legal moves: 13
+2024-09-22 03:12:11,238 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:11,238 - INFO - Total legal moves: 12
+2024-09-22 03:12:11,444 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:11,444 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:11,444 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:11,444 - INFO - Fetching legal moves for White
+2024-09-22 03:12:11,445 - INFO - Total legal moves: 13
+2024-09-22 03:12:11,445 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:11,445 - INFO - Total legal moves: 12
+2024-09-22 03:12:11,657 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:11,657 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:11,657 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:11,657 - INFO - Fetching legal moves for White
+2024-09-22 03:12:11,658 - INFO - Total legal moves: 13
+2024-09-22 03:12:11,658 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:11,658 - INFO - Total legal moves: 12
+2024-09-22 03:12:11,875 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:11,875 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:11,875 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:11,875 - INFO - Fetching legal moves for White
+2024-09-22 03:12:11,875 - INFO - Total legal moves: 13
+2024-09-22 03:12:11,875 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:11,876 - INFO - Total legal moves: 12
+2024-09-22 03:12:12,093 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:12,093 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:12,093 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:12,093 - INFO - Fetching legal moves for White
+2024-09-22 03:12:12,093 - INFO - Total legal moves: 13
+2024-09-22 03:12:12,093 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:12,094 - INFO - Total legal moves: 12
+2024-09-22 03:12:12,304 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:12,304 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:12,304 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:12,304 - INFO - Fetching legal moves for White
+2024-09-22 03:12:12,304 - INFO - Total legal moves: 13
+2024-09-22 03:12:12,304 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:12,304 - INFO - Total legal moves: 12
+2024-09-22 03:12:12,518 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:12,518 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:12,519 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:12,519 - INFO - Fetching legal moves for White
+2024-09-22 03:12:12,519 - INFO - Total legal moves: 13
+2024-09-22 03:12:12,519 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:12,519 - INFO - Total legal moves: 12
+2024-09-22 03:12:12,726 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:12,726 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:12,726 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:12,726 - INFO - Fetching legal moves for White
+2024-09-22 03:12:12,726 - INFO - Total legal moves: 13
+2024-09-22 03:12:12,726 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:12,726 - INFO - Total legal moves: 12
+2024-09-22 03:12:12,961 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:12,961 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:12,961 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:12,961 - INFO - Fetching legal moves for White
+2024-09-22 03:12:12,961 - INFO - Total legal moves: 13
+2024-09-22 03:12:12,961 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:12,962 - INFO - Total legal moves: 12
+2024-09-22 03:12:13,172 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:13,172 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:13,173 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:13,173 - INFO - Fetching legal moves for White
+2024-09-22 03:12:13,173 - INFO - Total legal moves: 13
+2024-09-22 03:12:13,173 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:13,173 - INFO - Total legal moves: 12
+2024-09-22 03:12:13,386 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:13,386 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:13,387 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:13,387 - INFO - Fetching legal moves for White
+2024-09-22 03:12:13,387 - INFO - Total legal moves: 13
+2024-09-22 03:12:13,387 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:13,387 - INFO - Total legal moves: 12
+2024-09-22 03:12:13,597 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:13,597 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:13,597 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:13,597 - INFO - Fetching legal moves for White
+2024-09-22 03:12:13,597 - INFO - Total legal moves: 13
+2024-09-22 03:12:13,598 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:13,598 - INFO - Total legal moves: 12
+2024-09-22 03:12:13,807 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:13,807 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:13,807 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:13,807 - INFO - Fetching legal moves for White
+2024-09-22 03:12:13,807 - INFO - Total legal moves: 13
+2024-09-22 03:12:13,807 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:13,807 - INFO - Total legal moves: 12
+2024-09-22 03:12:14,023 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:14,023 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:14,023 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:14,023 - INFO - Fetching legal moves for White
+2024-09-22 03:12:14,023 - INFO - Total legal moves: 13
+2024-09-22 03:12:14,023 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:14,023 - INFO - Total legal moves: 12
+2024-09-22 03:12:14,234 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:14,234 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:14,234 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:14,234 - INFO - Fetching legal moves for White
+2024-09-22 03:12:14,235 - INFO - Total legal moves: 13
+2024-09-22 03:12:14,235 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:14,235 - INFO - Total legal moves: 12
+2024-09-22 03:12:14,457 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:14,457 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:14,457 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:14,457 - INFO - Fetching legal moves for White
+2024-09-22 03:12:14,457 - INFO - Total legal moves: 13
+2024-09-22 03:12:14,457 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:14,457 - INFO - Total legal moves: 12
+2024-09-22 03:12:14,667 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:14,667 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:14,667 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:14,667 - INFO - Fetching legal moves for White
+2024-09-22 03:12:14,667 - INFO - Total legal moves: 13
+2024-09-22 03:12:14,667 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:14,667 - INFO - Total legal moves: 12
+2024-09-22 03:12:14,899 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:14,899 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:14,899 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:14,899 - INFO - Fetching legal moves for White
+2024-09-22 03:12:14,899 - INFO - Total legal moves: 13
+2024-09-22 03:12:14,899 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:14,899 - INFO - Total legal moves: 12
+2024-09-22 03:12:15,132 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:12:15,132 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:12:15,132 - INFO - Move applied, now it's White's turn
+2024-09-22 03:12:15,132 - INFO - Fetching legal moves for White
+2024-09-22 03:12:15,133 - INFO - Total legal moves: 13
+2024-09-22 03:12:15,133 - INFO - Fetching legal moves for Black
+2024-09-22 03:12:15,133 - INFO - Total legal moves: 12
+2024-09-22 03:16:07,806 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:07,806 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:07,806 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:07,807 - INFO - Fetching legal moves for White
+2024-09-22 03:16:07,807 - INFO - Total legal moves: 13
+2024-09-22 03:16:07,807 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:07,807 - INFO - Total legal moves: 12
+2024-09-22 03:16:08,074 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:08,075 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:08,075 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:08,075 - INFO - Fetching legal moves for White
+2024-09-22 03:16:08,075 - INFO - Total legal moves: 13
+2024-09-22 03:16:08,075 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:08,075 - INFO - Total legal moves: 12
+2024-09-22 03:16:08,321 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:08,321 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:08,321 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:08,321 - INFO - Fetching legal moves for White
+2024-09-22 03:16:08,321 - INFO - Total legal moves: 13
+2024-09-22 03:16:08,321 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:08,321 - INFO - Total legal moves: 12
+2024-09-22 03:16:08,574 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:08,574 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:08,574 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:08,574 - INFO - Fetching legal moves for White
+2024-09-22 03:16:08,574 - INFO - Total legal moves: 13
+2024-09-22 03:16:08,574 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:08,574 - INFO - Total legal moves: 12
+2024-09-22 03:16:08,793 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:08,793 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:08,793 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:08,793 - INFO - Fetching legal moves for White
+2024-09-22 03:16:08,793 - INFO - Total legal moves: 13
+2024-09-22 03:16:08,793 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:08,794 - INFO - Total legal moves: 12
+2024-09-22 03:16:09,020 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:09,020 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:09,020 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:09,020 - INFO - Fetching legal moves for White
+2024-09-22 03:16:09,020 - INFO - Total legal moves: 13
+2024-09-22 03:16:09,020 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:09,020 - INFO - Total legal moves: 12
+2024-09-22 03:16:09,228 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:09,228 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:09,228 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:09,228 - INFO - Fetching legal moves for White
+2024-09-22 03:16:09,228 - INFO - Total legal moves: 13
+2024-09-22 03:16:09,228 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:09,228 - INFO - Total legal moves: 12
+2024-09-22 03:16:09,445 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:09,445 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:09,445 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:09,445 - INFO - Fetching legal moves for White
+2024-09-22 03:16:09,445 - INFO - Total legal moves: 13
+2024-09-22 03:16:09,445 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:09,445 - INFO - Total legal moves: 12
+2024-09-22 03:16:09,663 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:09,663 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:09,663 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:09,663 - INFO - Fetching legal moves for White
+2024-09-22 03:16:09,663 - INFO - Total legal moves: 13
+2024-09-22 03:16:09,663 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:09,663 - INFO - Total legal moves: 12
+2024-09-22 03:16:09,880 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:09,880 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:09,880 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:09,880 - INFO - Fetching legal moves for White
+2024-09-22 03:16:09,880 - INFO - Total legal moves: 13
+2024-09-22 03:16:09,880 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:09,881 - INFO - Total legal moves: 12
+2024-09-22 03:16:10,094 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:10,094 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:10,094 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:10,094 - INFO - Fetching legal moves for White
+2024-09-22 03:16:10,095 - INFO - Total legal moves: 13
+2024-09-22 03:16:10,095 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:10,095 - INFO - Total legal moves: 12
+2024-09-22 03:16:10,311 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:10,311 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:10,311 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:10,311 - INFO - Fetching legal moves for White
+2024-09-22 03:16:10,311 - INFO - Total legal moves: 13
+2024-09-22 03:16:10,311 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:10,311 - INFO - Total legal moves: 12
+2024-09-22 03:16:10,523 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:10,523 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:10,523 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:10,523 - INFO - Fetching legal moves for White
+2024-09-22 03:16:10,523 - INFO - Total legal moves: 13
+2024-09-22 03:16:10,523 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:10,523 - INFO - Total legal moves: 12
+2024-09-22 03:16:10,733 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:10,733 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:10,733 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:10,733 - INFO - Fetching legal moves for White
+2024-09-22 03:16:10,733 - INFO - Total legal moves: 13
+2024-09-22 03:16:10,733 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:10,733 - INFO - Total legal moves: 12
+2024-09-22 03:16:10,953 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:10,953 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:10,953 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:10,953 - INFO - Fetching legal moves for White
+2024-09-22 03:16:10,953 - INFO - Total legal moves: 13
+2024-09-22 03:16:10,953 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:10,953 - INFO - Total legal moves: 12
+2024-09-22 03:16:11,169 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:11,169 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:11,169 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:11,169 - INFO - Fetching legal moves for White
+2024-09-22 03:16:11,169 - INFO - Total legal moves: 13
+2024-09-22 03:16:11,169 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:11,170 - INFO - Total legal moves: 12
+2024-09-22 03:16:11,385 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:11,385 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:11,385 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:11,385 - INFO - Fetching legal moves for White
+2024-09-22 03:16:11,385 - INFO - Total legal moves: 13
+2024-09-22 03:16:11,385 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:11,385 - INFO - Total legal moves: 12
+2024-09-22 03:16:11,604 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:11,604 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:11,604 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:11,604 - INFO - Fetching legal moves for White
+2024-09-22 03:16:11,604 - INFO - Total legal moves: 13
+2024-09-22 03:16:11,604 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:11,604 - INFO - Total legal moves: 12
+2024-09-22 03:16:11,810 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:11,811 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:11,811 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:11,811 - INFO - Fetching legal moves for White
+2024-09-22 03:16:11,811 - INFO - Total legal moves: 13
+2024-09-22 03:16:11,811 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:11,811 - INFO - Total legal moves: 12
+2024-09-22 03:16:12,030 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:12,030 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:12,030 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:12,030 - INFO - Fetching legal moves for White
+2024-09-22 03:16:12,030 - INFO - Total legal moves: 13
+2024-09-22 03:16:12,030 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:12,030 - INFO - Total legal moves: 12
+2024-09-22 03:16:12,244 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:12,244 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:12,244 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:12,244 - INFO - Fetching legal moves for White
+2024-09-22 03:16:12,244 - INFO - Total legal moves: 13
+2024-09-22 03:16:12,244 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:12,245 - INFO - Total legal moves: 12
+2024-09-22 03:16:12,453 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:12,453 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:12,453 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:12,453 - INFO - Fetching legal moves for White
+2024-09-22 03:16:12,453 - INFO - Total legal moves: 13
+2024-09-22 03:16:12,453 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:12,453 - INFO - Total legal moves: 12
+2024-09-22 03:16:12,661 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:12,661 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:12,661 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:12,662 - INFO - Fetching legal moves for White
+2024-09-22 03:16:12,662 - INFO - Total legal moves: 13
+2024-09-22 03:16:12,662 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:12,662 - INFO - Total legal moves: 12
+2024-09-22 03:16:12,874 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:12,874 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:12,874 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:12,874 - INFO - Fetching legal moves for White
+2024-09-22 03:16:12,874 - INFO - Total legal moves: 13
+2024-09-22 03:16:12,874 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:12,874 - INFO - Total legal moves: 12
+2024-09-22 03:16:13,093 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:13,093 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:13,093 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:13,093 - INFO - Fetching legal moves for White
+2024-09-22 03:16:13,093 - INFO - Total legal moves: 13
+2024-09-22 03:16:13,093 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:13,093 - INFO - Total legal moves: 12
+2024-09-22 03:16:13,307 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:13,307 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:13,307 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:13,307 - INFO - Fetching legal moves for White
+2024-09-22 03:16:13,307 - INFO - Total legal moves: 13
+2024-09-22 03:16:13,307 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:13,307 - INFO - Total legal moves: 12
+2024-09-22 03:16:13,521 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:13,521 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:13,521 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:13,521 - INFO - Fetching legal moves for White
+2024-09-22 03:16:13,521 - INFO - Total legal moves: 13
+2024-09-22 03:16:13,521 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:13,522 - INFO - Total legal moves: 12
+2024-09-22 03:16:13,736 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:13,736 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:13,736 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:13,736 - INFO - Fetching legal moves for White
+2024-09-22 03:16:13,736 - INFO - Total legal moves: 13
+2024-09-22 03:16:13,736 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:13,736 - INFO - Total legal moves: 12
+2024-09-22 03:16:13,953 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:13,953 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:13,953 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:13,953 - INFO - Fetching legal moves for White
+2024-09-22 03:16:13,954 - INFO - Total legal moves: 13
+2024-09-22 03:16:13,954 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:13,954 - INFO - Total legal moves: 12
+2024-09-22 03:16:14,169 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:14,169 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:14,169 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:14,169 - INFO - Fetching legal moves for White
+2024-09-22 03:16:14,170 - INFO - Total legal moves: 13
+2024-09-22 03:16:14,170 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:14,170 - INFO - Total legal moves: 12
+2024-09-22 03:16:14,390 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:14,390 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:14,390 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:14,390 - INFO - Fetching legal moves for White
+2024-09-22 03:16:14,390 - INFO - Total legal moves: 13
+2024-09-22 03:16:14,390 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:14,390 - INFO - Total legal moves: 12
+2024-09-22 03:16:14,625 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:14,625 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:14,625 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:14,625 - INFO - Fetching legal moves for White
+2024-09-22 03:16:14,625 - INFO - Total legal moves: 13
+2024-09-22 03:16:14,625 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:14,625 - INFO - Total legal moves: 12
+2024-09-22 03:16:14,841 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:14,841 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:14,841 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:14,841 - INFO - Fetching legal moves for White
+2024-09-22 03:16:14,841 - INFO - Total legal moves: 13
+2024-09-22 03:16:14,841 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:14,841 - INFO - Total legal moves: 12
+2024-09-22 03:16:15,055 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:15,055 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:15,055 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:15,055 - INFO - Fetching legal moves for White
+2024-09-22 03:16:15,055 - INFO - Total legal moves: 13
+2024-09-22 03:16:15,055 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:15,055 - INFO - Total legal moves: 12
+2024-09-22 03:16:33,609 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:33,609 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:33,609 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:33,609 - INFO - Fetching legal moves for White
+2024-09-22 03:16:33,609 - INFO - Total legal moves: 13
+2024-09-22 03:16:33,609 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:33,609 - INFO - Total legal moves: 12
+2024-09-22 03:16:33,869 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:33,869 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:33,869 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:33,869 - INFO - Fetching legal moves for White
+2024-09-22 03:16:33,869 - INFO - Total legal moves: 13
+2024-09-22 03:16:33,869 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:33,869 - INFO - Total legal moves: 12
+2024-09-22 03:16:34,121 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:34,121 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:34,121 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:34,121 - INFO - Fetching legal moves for White
+2024-09-22 03:16:34,122 - INFO - Total legal moves: 13
+2024-09-22 03:16:34,122 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:34,122 - INFO - Total legal moves: 12
+2024-09-22 03:16:34,375 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:34,375 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:34,375 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:34,375 - INFO - Fetching legal moves for White
+2024-09-22 03:16:34,375 - INFO - Total legal moves: 13
+2024-09-22 03:16:34,375 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:34,375 - INFO - Total legal moves: 12
+2024-09-22 03:16:34,598 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:34,598 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:34,598 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:34,598 - INFO - Fetching legal moves for White
+2024-09-22 03:16:34,598 - INFO - Total legal moves: 13
+2024-09-22 03:16:34,598 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:34,598 - INFO - Total legal moves: 12
+2024-09-22 03:16:34,805 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:34,805 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:34,805 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:34,806 - INFO - Fetching legal moves for White
+2024-09-22 03:16:34,806 - INFO - Total legal moves: 13
+2024-09-22 03:16:34,806 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:34,806 - INFO - Total legal moves: 12
+2024-09-22 03:16:35,027 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:35,027 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:35,027 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:35,027 - INFO - Fetching legal moves for White
+2024-09-22 03:16:35,027 - INFO - Total legal moves: 13
+2024-09-22 03:16:35,027 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:35,027 - INFO - Total legal moves: 12
+2024-09-22 03:16:35,245 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:35,245 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:35,245 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:35,245 - INFO - Fetching legal moves for White
+2024-09-22 03:16:35,245 - INFO - Total legal moves: 13
+2024-09-22 03:16:35,245 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:35,245 - INFO - Total legal moves: 12
+2024-09-22 03:16:35,460 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:35,460 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:35,461 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:35,461 - INFO - Fetching legal moves for White
+2024-09-22 03:16:35,461 - INFO - Total legal moves: 13
+2024-09-22 03:16:35,461 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:35,461 - INFO - Total legal moves: 12
+2024-09-22 03:16:35,678 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:35,678 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:35,678 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:35,678 - INFO - Fetching legal moves for White
+2024-09-22 03:16:35,678 - INFO - Total legal moves: 13
+2024-09-22 03:16:35,678 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:35,678 - INFO - Total legal moves: 12
+2024-09-22 03:16:35,887 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:35,887 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:35,887 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:35,887 - INFO - Fetching legal moves for White
+2024-09-22 03:16:35,887 - INFO - Total legal moves: 13
+2024-09-22 03:16:35,887 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:35,887 - INFO - Total legal moves: 12
+2024-09-22 03:16:36,102 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:36,102 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:36,102 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:36,102 - INFO - Fetching legal moves for White
+2024-09-22 03:16:36,102 - INFO - Total legal moves: 13
+2024-09-22 03:16:36,102 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:36,102 - INFO - Total legal moves: 12
+2024-09-22 03:16:36,316 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:36,316 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:36,316 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:36,316 - INFO - Fetching legal moves for White
+2024-09-22 03:16:36,317 - INFO - Total legal moves: 13
+2024-09-22 03:16:36,317 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:36,317 - INFO - Total legal moves: 12
+2024-09-22 03:16:36,530 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:36,530 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:36,530 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:36,530 - INFO - Fetching legal moves for White
+2024-09-22 03:16:36,530 - INFO - Total legal moves: 13
+2024-09-22 03:16:36,530 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:36,530 - INFO - Total legal moves: 12
+2024-09-22 03:16:36,746 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:36,746 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:36,746 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:36,746 - INFO - Fetching legal moves for White
+2024-09-22 03:16:36,746 - INFO - Total legal moves: 13
+2024-09-22 03:16:36,746 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:36,747 - INFO - Total legal moves: 12
+2024-09-22 03:16:36,955 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:36,955 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:36,955 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:36,955 - INFO - Fetching legal moves for White
+2024-09-22 03:16:36,955 - INFO - Total legal moves: 13
+2024-09-22 03:16:36,955 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:36,955 - INFO - Total legal moves: 12
+2024-09-22 03:16:37,168 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:37,168 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:37,168 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:37,168 - INFO - Fetching legal moves for White
+2024-09-22 03:16:37,168 - INFO - Total legal moves: 13
+2024-09-22 03:16:37,168 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:37,168 - INFO - Total legal moves: 12
+2024-09-22 03:16:37,378 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:37,379 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:37,379 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:37,379 - INFO - Fetching legal moves for White
+2024-09-22 03:16:37,379 - INFO - Total legal moves: 13
+2024-09-22 03:16:37,379 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:37,379 - INFO - Total legal moves: 12
+2024-09-22 03:16:37,596 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:37,596 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:37,597 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:37,597 - INFO - Fetching legal moves for White
+2024-09-22 03:16:37,597 - INFO - Total legal moves: 13
+2024-09-22 03:16:37,597 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:37,597 - INFO - Total legal moves: 12
+2024-09-22 03:16:37,814 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:37,814 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:37,814 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:37,814 - INFO - Fetching legal moves for White
+2024-09-22 03:16:37,814 - INFO - Total legal moves: 13
+2024-09-22 03:16:37,814 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:37,815 - INFO - Total legal moves: 12
+2024-09-22 03:16:38,030 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:38,030 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:38,030 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:38,030 - INFO - Fetching legal moves for White
+2024-09-22 03:16:38,030 - INFO - Total legal moves: 13
+2024-09-22 03:16:38,030 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:38,030 - INFO - Total legal moves: 12
+2024-09-22 03:16:38,243 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:38,243 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:38,243 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:38,243 - INFO - Fetching legal moves for White
+2024-09-22 03:16:38,244 - INFO - Total legal moves: 13
+2024-09-22 03:16:38,244 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:38,244 - INFO - Total legal moves: 12
+2024-09-22 03:16:38,457 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:38,457 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:38,457 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:38,457 - INFO - Fetching legal moves for White
+2024-09-22 03:16:38,457 - INFO - Total legal moves: 13
+2024-09-22 03:16:38,457 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:38,457 - INFO - Total legal moves: 12
+2024-09-22 03:16:38,667 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:38,667 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:38,667 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:38,667 - INFO - Fetching legal moves for White
+2024-09-22 03:16:38,667 - INFO - Total legal moves: 13
+2024-09-22 03:16:38,667 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:38,667 - INFO - Total legal moves: 12
+2024-09-22 03:16:38,873 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:38,873 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:38,873 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:38,873 - INFO - Fetching legal moves for White
+2024-09-22 03:16:38,874 - INFO - Total legal moves: 13
+2024-09-22 03:16:38,874 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:38,874 - INFO - Total legal moves: 12
+2024-09-22 03:16:39,094 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:39,094 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:39,094 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:39,094 - INFO - Fetching legal moves for White
+2024-09-22 03:16:39,095 - INFO - Total legal moves: 13
+2024-09-22 03:16:39,095 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:39,095 - INFO - Total legal moves: 12
+2024-09-22 03:16:39,311 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:39,312 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:39,312 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:39,312 - INFO - Fetching legal moves for White
+2024-09-22 03:16:39,312 - INFO - Total legal moves: 13
+2024-09-22 03:16:39,312 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:39,312 - INFO - Total legal moves: 12
+2024-09-22 03:16:39,533 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:39,534 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:39,534 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:39,534 - INFO - Fetching legal moves for White
+2024-09-22 03:16:39,534 - INFO - Total legal moves: 13
+2024-09-22 03:16:39,534 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:39,534 - INFO - Total legal moves: 12
+2024-09-22 03:16:39,773 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:39,773 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:39,773 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:39,773 - INFO - Fetching legal moves for White
+2024-09-22 03:16:39,773 - INFO - Total legal moves: 13
+2024-09-22 03:16:39,773 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:39,773 - INFO - Total legal moves: 12
+2024-09-22 03:16:39,990 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:39,990 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:39,990 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:39,990 - INFO - Fetching legal moves for White
+2024-09-22 03:16:39,990 - INFO - Total legal moves: 13
+2024-09-22 03:16:39,990 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:39,991 - INFO - Total legal moves: 12
+2024-09-22 03:16:40,209 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:40,209 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:40,209 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:40,209 - INFO - Fetching legal moves for White
+2024-09-22 03:16:40,209 - INFO - Total legal moves: 13
+2024-09-22 03:16:40,210 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:40,210 - INFO - Total legal moves: 12
+2024-09-22 03:16:40,419 - ERROR - Invalid board string. Must be exactly 65 characters.
+2024-09-22 03:16:40,420 - INFO - Flipping discs from row 3, col 5
+2024-09-22 03:16:40,420 - INFO - Move applied, now it's White's turn
+2024-09-22 03:16:40,420 - INFO - Fetching legal moves for White
+2024-09-22 03:16:40,420 - INFO - Total legal moves: 13
+2024-09-22 03:16:40,420 - INFO - Fetching legal moves for Black
+2024-09-22 03:16:40,420 - INFO - Total legal moves: 12
