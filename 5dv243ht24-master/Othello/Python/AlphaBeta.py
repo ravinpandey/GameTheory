@@ -15,6 +15,8 @@ class AlphaBeta(OthelloAlgorithm):
         self.search_depth = search_depth
         self.evaluator = evaluator if evaluator else CountingEvaluator()
         self.transposition_table = {}  # Initialize the transposition table
+        self.start_time = None         # Track start time as a class-level variable
+        self.time_limit = None         # Track time limit as a class-level variable
 
     def set_evaluator(self, AdvancedEvaluator):
         self.evaluator = AdvancedEvaluator  # Set a different evaluator
@@ -26,10 +28,18 @@ class AlphaBeta(OthelloAlgorithm):
         """Generate a hash for the board position to store in the transposition table."""
         return hashlib.md5(position.board.tobytes()).hexdigest()
 
+    def time_exceeded(self):
+        """Check if the time limit has been exceeded."""
+        return time.time() - self.start_time >= self.time_limit
+
     def alpha_beta(self, position, depth, alpha, beta, maximizing_player):
         """
         Alpha-Beta pruning algorithm with Transposition Tables.
         """
+        # Frequent time check at each recursion level
+        if self.time_exceeded():
+            return None, None
+        
         # Generate a unique hash for the current board state
         board_key = self.board_hash(position)
 
@@ -55,8 +65,18 @@ class AlphaBeta(OthelloAlgorithm):
             max_eval = float('-inf')
             best_move = None
             for move in legal_moves:
+                # Frequent time check at each iteration
+                if self.time_exceeded():
+                    return None, None
                 new_position = position.make_move(move)
                 eval_score, _ = self.alpha_beta(new_position, depth - 1, alpha, beta, False)
+                
+                # Check again after recursion
+                if self.time_exceeded():
+                    return None, None
+
+                if eval_score is None:
+                    return None, None
                 if eval_score > max_eval:
                     max_eval = eval_score
                     best_move = move
@@ -70,8 +90,18 @@ class AlphaBeta(OthelloAlgorithm):
             min_eval = float('inf')
             best_move = None
             for move in legal_moves:
+                # Frequent time check at each iteration
+                if self.time_exceeded():
+                    return None, None
                 new_position = position.make_move(move)
                 eval_score, _ = self.alpha_beta(new_position, depth - 1, alpha, beta, True)
+                
+                # Check again after recursion
+                if self.time_exceeded():
+                    return None, None
+
+                if eval_score is None:
+                    return None, None
                 if eval_score < min_eval:
                     min_eval = eval_score
                     best_move = move
@@ -82,21 +112,28 @@ class AlphaBeta(OthelloAlgorithm):
             self.transposition_table[board_key] = {'score': min_eval, 'move': best_move, 'depth': depth}
             return min_eval, best_move
 
-    def iterative_deepening(self, position, max_depth, time_limit):
+    def iterative_deepening(self, position, max_depth):
         """
         Perform Iterative Deepening with a time limit and Transposition Tables.
         The search depth is increased incrementally until the maximum depth is reached or time runs out.
         """
-        start_time = time.time()
         best_move = None
 
         for depth in range(1, max_depth + 1):
-            # Check if time limit exceeded
-            if time.time() - start_time > time_limit:
+            # Check if time limit exceeded before every depth iteration
+            if self.time_exceeded():
+                break
+
+            # Abort deeper searches if time is almost up
+            remaining_time = self.time_limit - (time.time() - self.start_time)
+            if remaining_time < 0.05:  # If less than 50ms remaining, stop deeper searches
                 break
 
             # Run Alpha-Beta with the current depth
             eval_score, move = self.alpha_beta(position, depth, float('-inf'), float('inf'), position.maxPlayer)
+
+            if eval_score is None:
+                return best_move  # Return the best move found before time limit exceeded
 
             # Store the best move found so far
             if move is not None:
@@ -106,15 +143,16 @@ class AlphaBeta(OthelloAlgorithm):
 
     def evaluate(self, position, time_limit=5):
         """
-        Evaluate the best move using Iterative Deepening with a time limit and Transposition Tables.
-        The search depth increases progressively until the time limit is reached.
+        Evaluate the best move using Iterative Deepening with a time limit.
+        Initializes the start time and time limit for time management.
         """
-        # Perform iterative deepening with the set search depth and time limit
-        best_move = self.iterative_deepening(position, self.search_depth, time_limit)
+        self.start_time = time.time()  # Set the start time when evaluation begins
+        self.time_limit = time_limit   # Set the time limit
+        
+        # Perform iterative deepening
+        best_move = self.iterative_deepening(position, self.search_depth)
 
         if best_move is not None and not best_move.is_pass_move:
-            move_str = f"({best_move.row},{best_move.col})"
+            return f"({best_move.row},{best_move.col})"
         else:
-            move_str = "pass"
-
-        return move_str
+            return "pass"
